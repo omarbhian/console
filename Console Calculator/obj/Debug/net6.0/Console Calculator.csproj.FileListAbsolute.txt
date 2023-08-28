@@ -1,0 +1,15 @@
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\Console Calculator.exe
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\Console Calculator.deps.json
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\Console Calculator.runtimeconfig.json
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\Console Calculator.dll
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\ref\Console Calculator.dll
+D:\genx\ConsoleApplications-master\Console Calculator\bin\Debug\net6.0\Console Calculator.pdb
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.csproj.AssemblyReference.cache
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.AssemblyInfoInputs.cache
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.AssemblyInfo.cs
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.csproj.CoreCompileInputs.cache
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.dll
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\ref\Console Calculator.dll
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.pdb
+D:\genx\ConsoleApplications-master\Console Calculator\obj\Debug\net6.0\Console Calculator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\Simple Bank Application.exe
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\Simple Bank Application.deps.json
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\Simple Bank Application.runtimeconfig.json
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\Simple Bank Application.dll
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\ref\Simple Bank Application.dll
+D:\genx\ConsoleApplications-master\Simple Bank Application\bin\Debug\net6.0\Simple Bank Application.pdb
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.csproj.AssemblyReference.cache
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.AssemblyInfoInputs.cache
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.AssemblyInfo.cs
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.csproj.CoreCompileInputs.cache
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.dll
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\ref\Simple Bank Application.dll
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.pdb
+D:\genx\ConsoleApplications-master\Simple Bank Application\obj\Debug\net6.0\Simple Bank Application.genruntimeconfig.cache
